@@ -36,6 +36,14 @@ Develop a machine learning algorithm capable of predicting pet insurance premium
 2. The [UK Pet Insurance Quotes Data](https://console.cloud.google.com/storage/browser/pet-insurance-data;tab=objects?forceOnBucketsSortingFiltering=true&project=pet-insurance-prediction) is stored in **G**oogle Cloud Storage** due to it's large size.
 3. The [Pet Insurance Cost Predictor App](https://huggingface.co/spaces/bmccourt01/hugsallaround) is deployed to **Hugging Face** and is available to anyone to use simply by clicking on the link.
 
+## Warnings
+
+Running the following code blocks in section 5.0 Build and Test the Model of the notebook will result in either timing out or executing for a long time.  
+
+1. Support Vector Regression (SVR) / Train the Model | Original
+2. Support Vector Regression (SVR) / Train + Optimize the Model | Hyperparameter Tuning (Grid Search)
+3. Random Forest
+
 ## Requirements
 
 The following libraries are required to run the notebook.  These code snippets have already been included in the notebook for the user to run.
