@@ -1,4 +1,27 @@
-# pet-insurance-cost-prediction
+# Pet Insurance Cost Prediction
+
+## Problem Statement
+
+Currently, the premium pricing process involves a combination of manual underwriting and rule-based methods, which may not fully account for the diverse factors influencing the cost of pet insurance.
+
+This process can lead to inaccurate pricing, resulting in either overpriced premiums that deter potential customers or underpriced policies that increase risk for the insurer.
+
+## Business Case
+
+By developing a machine learning algorithm to predict pet health insurance premiums, companies can leverage historical data to produce more accurate, dynamic, and fair pricing models.
+
+Key Benefits
+
+- Improved pricing accuracy
+- Increased customer retention and acquisition
+- Operational efficiency
+- Scalability
+
+## Project Objective
+
+Develop a machine learning algorithm capable of predicting pet insurance premiums with at least 80% R-squared accuracy, providing fair pricing for customers while optimizing profitability for the business.
+
+## Files
 
 - [Pet Insurance Cost Prediction Notebook](https://colab.research.google.com/drive/1aqbLnUOHnnplVufDrzNPLQGRhr9UwZ5l?usp=sharing) in Google Colab
 - [Pet Insurance Cost Predictor App](https://huggingface.co/spaces/bmccourt01/hugsallaround)
