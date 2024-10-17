@@ -33,7 +33,7 @@ Develop a machine learning algorithm capable of predicting pet insurance premium
 ## How to interact with the files
 
 1. The [Jupyter notebook](https://colab.research.google.com/drive/1aqbLnUOHnnplVufDrzNPLQGRhr9UwZ5l?usp=sharing)  can be run directly in **Google Colab**.
-2. The [data files](https://console.cloud.google.com/storage/browser/pet-insurance-data;tab=objects?forceOnBucketsSortingFiltering=true&project=pet-insurance-prediction) are stored in **Google Cloud Storage** due to it's large size.
+2. The [data files](https://console.cloud.google.com/storage/browser/pet-insurance-data;tab=objects?forceOnBucketsSortingFiltering=true&project=pet-insurance-prediction) are stored in **Google Cloud Storage** due to their large size.
 3. The [Pet Insurance Cost Predictor App](https://huggingface.co/spaces/bmccourt01/hugsallaround) is deployed to **Hugging Face** and available for anyone to use simply by clicking on the link.
 
 ## Warnings
